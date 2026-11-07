@@ -1,3 +1,5 @@
+> **Merged into [site-kit](https://github.com/jasveerai88/site-kit)** — this tool now ships as the `widget-kit` module of the site-kit suite (v1.0.0, also on PyPI). New work happens there; this repo stays as the original standalone release.
+
 # widget-kit
 
 **A widget should not be rented by the view.**
